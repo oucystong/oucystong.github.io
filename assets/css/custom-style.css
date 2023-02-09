@@ -186,3 +186,21 @@ footer.main-footer .footer-text a:hover {
 	background-size: 15px 15px;
 	background-color: #1C1D20;
 }
+
+/* 设置搜索框中的公告栏 */
+.header-big:not(.no-bg) #bulletin_box .card-body {
+	color: #fff !important;
+	background: rgba(0, 0, 0, .3);
+	border-radius: 5px;
+}
+
+/* 设置搜索框 */
+.header-big #search-text {
+	border-radius: 10px;
+	color: #fff;
+	border: 1px solid rgba(255, 255, 255, .05);
+	padding: 9px 20px;
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	background-color: rgba(0, 0, 0, 0.6) !important;
+}
