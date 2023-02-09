@@ -10,13 +10,44 @@
 
 ## 下载部署
 
-1、
+>前提：本地已经安装配置了Git工具。
 
+1、克隆项目
 
+```shell
+// 克隆项目
+git clone https://github.com/oucystong/oucystong.github.io.git
+```
 
+2、查看项目的远程地址
 
+```shell
+// 查看项目的远程地址
+git remote -v
+```
 
+>此时远程地址为本项目的远程地址，需要修改成你自己的远程地址，否则后续修改代码后无法推送和部署。
 
+3、注册Github账号，并且按照如下图片要求新建仓库
+
+![](./images/新建Github仓库要求.png)
+
+4、获取新建仓库地址并且设置本地项目的远程地址
+
+```shell
+# 设置远程仓库地址
+git remote set-url origin https://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@github.com/oucystong/oucystong.github.io.git
+# 查看远程仓库地址
+git remote -v
+```
+
+>注意：
+>
+>1、你的新建仓库地址可能跟上述仓库格式不太一样，必须要跟上述仓库格式相同才可以，否则无法推送，这是因为Github不再允许通过用户名和密码的方式进行验证。
+>
+>2、解决方案：https://blog.csdn.net/yjw123456/article/details/119696726
+
+5、修改代码
 
 
 
