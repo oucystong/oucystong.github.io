@@ -88,3 +88,8 @@ git push -u origin main
 * [WebStack](https://github.com/WebStackPage/WebStackPage.github.io/)
 * [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
 
+## 请喝可乐
+
+觉得有帮助的小伙伴，欢迎请作者喝杯肥宅快乐水！
+
+<img src="images/微信收款码.JPG" style="zoom: 33%;" /><img src="images/支付宝收款码.JPG" style="zoom: 25%;" />
