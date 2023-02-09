@@ -92,4 +92,4 @@ git push -u origin main
 
 觉得有帮助的小伙伴，欢迎请作者喝杯肥宅快乐水！
 
-<img src="images/微信收款码.JPG" style="zoom: 33%;" /><img src="images/支付宝收款码.JPG" style="zoom: 25%;" />
+![](images/赞赏码.JPG)
