@@ -30,7 +30,7 @@ git remote -v
 
 3、注册Github账号，并且按照如下图片要求新建仓库
 
-![](./images/新建Github仓库要求.png)
+![](images/新建Github仓库要求.png)
 
 4、获取新建仓库地址并且设置本地项目的远程地址
 
@@ -49,15 +49,27 @@ git remote -v
 
 5、修改代码
 
+>代码基本都可以见名知意，自定义内容替换为自己的即可。
 
+6、提交代码
 
+```shell
+# 一套三连招
+git add .
+git commit -m "update"
+git push -u origin main
+```
 
+7、通过Github Pages部署项目
 
+![](images/部署成功.png)
 
+8、通过Github Pages生成的网址测试访问
 
+9、如果想自定义域名，可以通过阿里云或者腾讯云直接申请，如果仅仅作为Github Pages的绑定域名，则不需要备案
 
-
-
+> * 提交CNAME文件到仓库中，CNAME文件内容是申请的域名。
+> * 在阿里云或者腾讯云中配置域名解析。
 
 ## 参考项目
 
