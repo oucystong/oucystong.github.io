@@ -92,8 +92,6 @@ git push -u origin main
 
 觉得有帮助的小伙伴，欢迎请作者喝杯肥宅快乐水！
 
-
-
 <img src="images/赞赏码.JPG" width = "300" height = "300" alt="图片名称" align="center" />
 
 
