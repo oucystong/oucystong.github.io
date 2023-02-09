@@ -94,7 +94,7 @@ git push -u origin main
 
 
 
-<img src="images/赞赏码.JPG" width = "300" height = "300" alt="图片名称" align=left />
+<img src="images/赞赏码.JPG" width = "300" height = "300" alt="图片名称" align="center" />
 
 
 
