@@ -177,7 +177,7 @@ footer.main-footer .footer-text a:hover {
 .io-grey-mode .page-container .grid-bg {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.05) 1px, transparent 0), linear-gradient(90deg, rgba(0, 0, 0, 0.05) 1px, transparent 0);
 	background-size: 15px 15px;
-	background-color: #F9F9F9;
+	background-color: #E9E9E9;
 }
 
 /* 网格背景-夜间模式 */
@@ -203,4 +203,11 @@ footer.main-footer .footer-text a:hover {
 	-webkit-backdrop-filter: blur(5px);
 	backdrop-filter: blur(5px);
 	background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+/* 设置导航卡片图标样式 */
+.url-card .url-img>img {
+	max-height: 100%;
+	border-radius: 30%;
+	vertical-align: unset;
 }
